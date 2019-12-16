@@ -1,4 +1,4 @@
-## CLEO ANDROID - Unofficial Updates
+## CLEO ANDROID
 Unofficial updates for CLEO Android (by Alexander Blade @ www.dev-c.com, abandoned in 2016).
 
 Current build **(15 Dec 2019)** adds support for **GTA III v1.8 & Vice City v1.09.**
