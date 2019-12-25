@@ -1,0 +1,24 @@
+C_HELP Touch screen left or right to select a cheat, center to use, any other screen part to dismiss
+C_WEAPO weapon
+C_MONEY money
+C_HEALT health
+C_WANUP wanted up
+C_WANDO wanted down
+C_TANK spawn random car
+C_BANG blow up cars
+C_CHANG change player
+C_MAYHE mayhem
+C_ATTAC peds attack player
+C_WEAPF weapons for all
+C_TIMEF fast time
+C_TIMES slow time
+C_ARMOU armour
+C_WSUNN sunny weather
+C_WCLOU cloudy weather
+C_WRAIN rainy weather
+C_WFOGG foggy weather
+C_WFAST fast weather
+C_WHEEL only wheels
+C_FLCAR flying cars
+C_JCARS jumping cars
+C_NLIMB nasty limbs

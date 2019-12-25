@@ -1,0 +1,24 @@
+<scripts>
+	<scr
+		name="CAR SPAWNER"
+		desc="features all of game cars, bikes, boats, planes and helis, spawn what you want and where you want; has inbuilt vehicle preview; activation using CLEO menu.">
+		<file name = "gtasa.carspawn.csi"/>	
+		<file name = "gtasa.carspawn.fxt"/>	
+	</scr>	
+	<scr
+		name="CHEATS"
+		desc="features all standard and bonus cheats, including 'mission skip' one; activation using CLEO menu.">
+		<file name = "gtasa.cheats.csi"/>	
+		<file name = "gtasa.cheats.fxt"/>	
+	</scr>		
+	<scr
+		name="HEALTH REGEN"
+		desc="constantly regenerates few player's HP every second; autostart.">
+		<file name = "gtasa.regen.csa"/>	
+	</scr>		
+	<scr
+		name="FULL STATS"
+		desc="boosts all player stats to the maximum; autostart.">
+		<file name = "gtasa.stats.csa"/>	
+	</scr>		
+</scripts>

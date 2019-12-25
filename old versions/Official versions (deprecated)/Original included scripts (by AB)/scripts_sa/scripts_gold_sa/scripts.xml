@@ -1,0 +1,77 @@
+<scripts>
+	<scr
+		name="CAR SPAWNER"
+		desc="features all of game cars, bikes, boats, planes and helis, spawn what you want and where you want; has inbuilt vehicle preview; activation using CLEO menu.">
+		<file name = "gtasa.carspawn.csi"/>	
+		<file name = "gtasa.carspawn.fxt"/>	
+	</scr>	
+	<scr
+		name="CHEATS"
+		desc="features all standard and bonus cheats, including 'mission skip' one; activation using CLEO menu.">
+		<file name = "gtasa.cheats.csi"/>	
+		<file name = "gtasa.cheats.fxt"/>	
+	</scr>
+	<scr
+		name="MISSION SELECTOR"
+		desc="allows to start any scenario mission you want; activation using CLEO menu.">
+		<file name = "gtasa.mission_selector.csi"/>	
+		<file name = "gtasa.mission_selector.fxt"/>	
+	</scr>	
+	<scr
+		name="PASSENGER"
+		desc="allows player to enter any traffic vehicle and perform driveby; activation using CLEO menu.">
+		<file name = "gtasa.passenger.csi"/>	
+		<file name = "gtasa.passenger.fxt"/>	
+	</scr>		
+	<scr
+		name="FIRST PERSON DRIVING"
+		desc="allows to activate 1st person view in any vehicle while driving; activation using CLEO menu.">
+		<file name = "gtasa.first_person_driving.csi"/>	
+		<file name = "gtasa.first_person_driving.fxt"/>	
+	</scr>		
+	<scr
+		name="FULL STATS"
+		desc="boosts all player stats to the maximum; autostart.">
+		<file name = "gtasa.stats.csa"/>	
+	</scr>
+	<scr
+		name="HEALTH REGEN"
+		desc="constantly regenerates few player's HP every second; autostart.">
+		<file name = "gtasa.regen.csa"/>	
+	</scr>	
+	<scr
+		name="FIGHT MASTER"
+		desc="player will use different fighting styles in melee combats; autostart.">
+		<file name = "gtasa.fightmaster.csa"/>	
+	</scr>
+	<scr
+		name="FLYING"
+		desc="allows player to fly like a superman; activation using CLEO menu.">
+		<file name = "gtasa.flying.csi"/>	
+	</scr>	
+	<scr
+		name="UNLIMITED JETPACK"
+		desc="removes the height limit for jetpack; autostart.">
+		<file name = "gtasa.jetpack.csa"/>	
+	</scr>	
+	<scr
+		name="OPEN HOUSES"
+		desc="allows player to visit any house, like it was during burglary missions; autostart.">
+		<file name = "gtasa.openhouses.csa"/>	
+	</scr>		
+	<scr
+		name="CAR BALANCE"
+		desc="player's car have an ability to prevent fllipping; autostart.">
+		<file name = "gtasa.carbalance.csa"/>	
+	</scr>		
+	<scr
+		name="CAR BOOST"
+		desc="allows you to speed up your car via 'power' widget while driving; autostart.">
+		<file name = "gtasa.carboost.csa"/>	
+	</scr>	
+	<scr
+		name="RADIO FIX"
+		desc="fixes the glitch which causes some radio stations to play only commercials, enjoy the music!; autostart.">
+		<file name = "gtasa.radiofix.csa"/>	
+	</scr>
+</scripts>

@@ -1,0 +1,27 @@
+<scripts>
+	<scr
+		name="CAR SPAWNER"
+		desc="features all of game vehicles, spawn what you want and where you want; has ibuilt vehicle preview; activation using CLEO menu.">
+		<file name = "gtavc.carspawn.csi"/>	
+		<file name = "gtavc.carspawn.fxt"/>	
+	</scr>	
+	<scr
+		name="CHEATS"
+		desc="features all standard cheats; activation using CLEO menu.">
+		<file name = "gtavc.cheats.csi"/>	
+		<file name = "gtavc.cheats.fxt"/>	
+	</scr>		
+	<scr
+		name="HEALTH REGEN"
+		desc="constantly regenerates few player's HP every second; autostart.">
+		<file name = "gtavc.regen.csa"/>	
+	</scr>		
+	<scr
+		name="ALL WEAPON"
+		desc="gives an ability to have all weapons at once; (de)activation using CLEO menu.">
+		<file name = "gtavc.allweapon.csa"/>
+		<file name = "gtavc.allweapon.fxt"/>
+		<file name = "gtavc.allweapon_on.csi"/>
+		<file name = "gtavc.allweapon_off.csi"/>
+	</scr>		
+</scripts>

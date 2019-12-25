@@ -1,0 +1,19 @@
+<scripts>
+	<scr
+		name="CAR SPAWNER"
+		desc="features all of game vehicles, spawn what you want and where you want; has ibuilt vehicle preview; activation using CLEO menu.">
+		<file name = "gta3.carspawn.csi"/>	
+		<file name = "gta3.carspawn.fxt"/>	
+	</scr>	
+	<scr
+		name="CHEATS"
+		desc="features all standard cheats; activation using CLEO menu.">
+		<file name = "gta3.cheats.csi"/>	
+		<file name = "gta3.cheats.fxt"/>	
+	</scr>		
+	<scr
+		name="HEALTH REGEN"
+		desc="constantly regenerates few player's HP every second; autostart.">
+		<file name = "gta3.regen.csa"/>	
+	</scr>		
+</scripts>
